@@ -2,6 +2,7 @@ CREATE DATABASE etna;
 use etna;
 
 CREATE TABLE legumes (
+  id INT(20) NOT NULL PRIMARY KEY AUTO_INCREMENT,
   name VARCHAR(250),
   sugar VARCHAR(10)
 );
