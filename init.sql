@@ -21,4 +21,4 @@ VALUES
   ('Celeri cuit', '2.8%'),
   ('Celeri branche', '1.2%'),
   ('Tomate, crue', '2,49%'),
-  ('Tomate, rôtie/cuite au four', '3,53%');
+  ('Tomate, rotie/cuite au four', '3,53%');
